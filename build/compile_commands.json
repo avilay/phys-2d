@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/avilay/projects/github/phys-2d/build",
+  "command": "/usr/bin/gcc   -Wall -g -fdiagnostics-color=always -I/usr/include -o CMakeFiles/phys_2d.dir/main.c.o -c /home/avilay/projects/github/phys-2d/main.c",
+  "file": "/home/avilay/projects/github/phys-2d/main.c",
+  "output": "CMakeFiles/phys_2d.dir/main.c.o"
+}
+]

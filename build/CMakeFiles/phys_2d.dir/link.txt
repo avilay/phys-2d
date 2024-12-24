@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -g CMakeFiles/phys_2d.dir/main.c.o -o phys_2d  /usr/lib/libraylib.so -L/usr/lib -lraylib
